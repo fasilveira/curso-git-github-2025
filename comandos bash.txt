@@ -1,3 +1,0 @@
-Ls -> lista arquivos 
-cd -> Move entre diretórios 
-pwd ->mostra diretório de trabalho 
