@@ -7,3 +7,6 @@ Este arquivo contém informações adicionais para git
 # Comandos mais genericos 
 
 - comandos estranhos 
+
+
+mais comandos 	
