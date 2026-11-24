@@ -1,5 +1,8 @@
 # Curso TMW Git & GitHub 2025
 
+Confira no YT:
+
+Segue o link : (https://youtube.com./@teomewhy)
 
 Um curso para iniciante aprenderem a trabalhar com versionamento de codio e repositórios remotos com GitHub.
 
